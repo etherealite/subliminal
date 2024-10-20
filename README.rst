@@ -18,17 +18,14 @@ Subtitles, faster than your thoughts.
     :target: https://github.com/Diaoul/subliminal/blob/master/LICENSE
     :alt: License
 
-.. image:: https://img.shields.io/badge/gitter-join%20chat-1dce73.svg
-    :alt: Join the chat at https://gitter.im/Diaoul/subliminal
-    :target: https://gitter.im/Diaoul/subliminal
-
-.. image:: https://img.shields.io/discord/1256603445411184740?style=for-the-badge&label&logo=discord&logoColor=white&color=blue
+.. image:: https://img.shields.io/badge/discord-7289da.svg?style=flat-square&logo=discord
     :alt: Discord
     :target: https://discord.gg/kXW6sWte9N
 
 
 :Project page: https://github.com/Diaoul/subliminal
 :Documentation: https://subliminal.readthedocs.org/
+:Community: https://discord.gg/kXW6sWte9N
 
 
 Usage
